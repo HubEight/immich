@@ -112,6 +112,7 @@ html::-webkit-scrollbar-thumb:hover {
 body {
   margin: 0;
   color: #3a3a3a;
+  background-color: #f0f8ff; /* Hellblau */
 }
 
 input:focus-visible {
